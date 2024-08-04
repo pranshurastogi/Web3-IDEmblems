@@ -1,0 +1,23 @@
+{
+  "name": "web3-idemblems",
+  "version": "1.0.0",
+  "description": "Decoding Wallet Identities, One Emblem at a Time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranshurastogi/Web3-IDEmblems.git"
+  },
+  "author": "Pranshu rastogi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranshurastogi/Web3-IDEmblems/issues"
+  },
+  "homepage": "https://github.com/pranshurastogi/Web3-IDEmblems#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.7"
+  }
+}
