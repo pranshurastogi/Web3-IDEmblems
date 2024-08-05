@@ -4,7 +4,7 @@ const fetchTransactions = require('./scripts/fetchTransaction');
 const logger = require('./logger');
 // const mongoose = require('./database');
 
-console.log(figlet.textSync('IDemblem Node', {
+console.log(figlet.textSync('IdEmblem Node', {
     font: 'Standard',
     horizontalLayout: 'default',
     verticalLayout: 'default'
