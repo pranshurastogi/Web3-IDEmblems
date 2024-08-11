@@ -1,4 +1,6 @@
 # Web3-IDEmblems
+![Floral Wreath Badge Modern Emblem Logo](https://github.com/user-attachments/assets/50a1850e-e160-4d12-bf43-72cb3918800e)
+
 
 ## "Decoding Wallet Identities, One Emblem at a Time"
 ![EMBLEM](https://github.com/user-attachments/assets/915d2ec7-45a4-427b-b143-2637c52df099)
