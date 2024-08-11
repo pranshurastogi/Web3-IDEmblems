@@ -11,6 +11,8 @@ Web3-IDEmblems is a groundbreaking protocol and SDK that brings identity and rep
 For more info and feedback check this [Docs](https://github.com/pranshurastogi/Web3-IDEmblems/tree/main/Documentation)
 
 ### COntracts and Deployment address
+
+### Contracts detailed explanation :  [Readme[(https://github.com/pranshurastogi/Web3-IDEmblems/blob/main/Documentation/Contracts.md)
 ```
 1. Optimism Sepolia
 
