@@ -12,7 +12,16 @@ module.exports = {
     sepolia: {
       url: `https://opt-sepolia.g.alchemy.com/v2/${ALCHEMY_API_KEY}`,
       accounts: [PRIVATE_KEY]
+    },
+    base: {
+      url: `https://base-sepolia.g.alchemy.com/v2/${ALCHEMY_API_KEY}`,
+      accounts: [PRIVATE_KEY]
+    },
+    metal: {
+      url: `https://testnet.rpc.metall2.com`,
+      accounts: [PRIVATE_KEY]
     }
+
   },
   etherscan: {
     apiKey: {
@@ -29,7 +38,7 @@ module.exports = {
     }
   ],
   solidity: {
-    version: "0.8.24",
+    version: "0.8.20",
     settings: {
       optimizer: {
         enabled: true,

@@ -8,12 +8,51 @@ Web3-IDEmblems is a groundbreaking protocol and SDK that brings identity and rep
 
 ### 
 ```
- Web3-IDEmblems % npx hardhat ignition deploy ./ignition/modules/Lock.js --network sepolia --verify
-✔ Confirm deploy to network sepolia (11155420)? … yes
-[ Web3IdEmblemModule ] Nothing new to deploy based on previous execution stored in ./ignition/deployments/chain-11155420
+1. Optimism Sepolia
+
+Hardhat Ignition 🚀
+
+Deploying [ Web3IdEmblemModule ]
+
+Batch #1
+  Executed Web3IdEmblemModule#Web3IDEmblems
+
+[ Web3IdEmblemModule ] successfully deployed 🚀
 
 Deployed Addresses
 
-Web3IdEmblemModule#Web3IDEmblems - 0xe99a2168101eD3D6413feF669B45AA2Ee58591a7
+Web3IdEmblemModule#Web3IDEmblems - 0x979a1611Bd2cDcE203aD19Cf8B661e66d6Fbe8E0
+
+2. Base sepolia
+
+✔ Confirm deploy to network base (84532)? … yes
+Hardhat Ignition 🚀
+
+Deploying [ Web3IdEmblemModule ]
+
+Batch #1
+  Executed Web3IdEmblemModule#Web3IDEmblems
+
+[ Web3IdEmblemModule ] successfully deployed 🚀
+
+Deployed Addresses
+
+Web3IdEmblemModule#Web3IDEmblems - 0x84025868551CfedF59E33Fa57720CD9d00fB315b
+
+3. Metal L2
+
+✔ Confirm deploy to network metal (1740)? … yes
+Hardhat Ignition 🚀
+
+Deploying [ Web3IdEmblemModule ]
+
+Batch #1
+  Executed Web3IdEmblemModule#Web3IDEmblems
+
+[ Web3IdEmblemModule ] successfully deployed 🚀
+
+Deployed Addresses
+
+Web3IdEmblemModule#Web3IDEmblems - 0x84025868551CfedF59E33Fa57720CD9d00fB315b
 
 ```
